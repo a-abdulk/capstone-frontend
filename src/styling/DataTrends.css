@@ -1,0 +1,44 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+.sidebar {
+  background-color: #2a2a2a;
+  height: 100vh;
+}
+
+.content {
+  padding: 20px;
+}
+
+.card {
+  background-color: #444;
+  border: none;
+  border-radius: 20px;
+}
+
+.card-header {
+  background-color: #444;
+  border-bottom: none;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.nav-link {
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+}
+
+.nav-link i {
+  margin-right: 8px;
+}
+
+.material-icons {
+  vertical-align: middle;
+}
